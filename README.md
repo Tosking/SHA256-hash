@@ -1,9 +1,13 @@
 # SHA-256 Hashing algorithm
 Not working properly, but I tried.
-##Usage
+## Usage
 Compile
-`make` 
+```
+make
+``` 
 
 Use
-`./sha256 *your string*`
+```
+./sha256 *your string*
+```
 
